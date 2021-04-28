@@ -7,6 +7,10 @@ The purpose of this project was to increase the speed at which our client Steve 
 
 ## Results
 
+![Image of original code block](https://github.com/jpb12002/stock-analysis/blob/main/Original_Code.png)
+
+![Image of refactored code block](https://github.com/jpb12002/stock-analysis/blob/main/Refactored_Code.png)
+
 ![Image of execution time original script 2017 stocks](https://github.com/jpb12002/stock-analysis/blob/main/Original_Analysis_2017.png)
 
 ![Image of execution time refactored script 2017 stocks](https://github.com/jpb12002/stock-analysis/blob/main/VBA_Challenge_2017.png)
@@ -14,5 +18,9 @@ The purpose of this project was to increase the speed at which our client Steve 
 ![Image of execution time original script 2018 stocks](https://github.com/jpb12002/stock-analysis/blob/main/Original_Analysis_2018.png)
 
 ![Image of execution time refactored script 2018 stocks](https://github.com/jpb12002/stock-analysis/blob/main/VBA_Challenge_2018.png)
+
+![Image of 2017 stock outcomes](https://github.com/jpb12002/stock-analysis/blob/main/2017_Stocks_Analysis.png)
+
+![Image of 2018 stock outcomes](https://github.com/jpb12002/stock-analysis/blob/main/2018_Stocks_Analysis.png)
 
 ## Summary 
