@@ -45,4 +45,6 @@ Examining the stock outcomes from 2017 and 2018, we can see that 2017 was a more
 ![Image of 2018 stock outcomes](https://github.com/jpb12002/stock-analysis/blob/main/2018_Stocks_Analysis.png)
 
 ## Summary 
-- There are several advandatages to refactoring code 
+- There are several advandatages to refactoring code, the most obvious one from this VBA project is making the execution time of your code faster. By refactoring our original "AllStockAnalysis" code, we saved approximately 0.4 seconds when analyzing the 2017 and 2018 stock data. While the speed increases we saw in this project were not massive, this will become much more important once we are working with larger data sets. Small time savings could translate into minutes or hours of time saved for you and the client. Another advantage with refactoring is that it helps to improve your coding skills and find new coding designs that can make future projects easier. The main example in this VBA project was that avoiding nested loops (when possible) in the refactored code made it run more efficiently. By defining more variables and arrays outside of loops, we can avoid excessive nesting. 
+
+- There were some disadvantages that appeared when refactoring our original code throughout this VBA project. 
