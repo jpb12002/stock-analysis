@@ -36,6 +36,7 @@ Comparing the times for the "2018" data sheet, we can again see that the refacto
 ![Image of execution time refactored script 2018 stocks](https://github.com/jpb12002/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 ### Analysis of Stock Outcomes
+Examining the stock outcomes from 2017 and 2018, we can see that 2017 was a more successful year for the stock market overall (at least for the stocks we are analyzing). Almost every stock in 2017 had a positive return while only two stocks had positive returns in 2018. Because the client Steve is searching for a stock return that is consistently trending upward, we also looked for stocks that had positive returns in both years. There were only two stocks that had positive returns in 2017 and 2018: ENPH and RUN. We can also see that the total daily volume for these stocks dramatically increased from 2017 to 2018. These trends show that investors are confident in the growth of these stocks moving forward. Therefore, our client Steven can confidently recommend to his parents that they should invest in either ENPH or RUN. 
 
 #### 2017 Stock Outcomes
 ![Image of 2017 stock outcomes](https://github.com/jpb12002/stock-analysis/blob/main/2017_Stocks_Analysis.png)
@@ -44,3 +45,4 @@ Comparing the times for the "2018" data sheet, we can again see that the refacto
 ![Image of 2018 stock outcomes](https://github.com/jpb12002/stock-analysis/blob/main/2018_Stocks_Analysis.png)
 
 ## Summary 
+- There are several advandatages to refactoring code 
